@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-book-pages/static/css/main.f23d10c2.css",
+    "main.js": "/web-book-pages/static/js/main.d0e68541.js",
+    "static/js/787.d827b253.chunk.js": "/web-book-pages/static/js/787.d827b253.chunk.js",
+    "static/media/Watersong.jpg": "/web-book-pages/static/media/Watersong.081a9936dff83a67a492.jpg",
+    "static/media/hanako.jpg": "/web-book-pages/static/media/hanako.4b51d7300faea122b876.jpg",
+    "static/media/under.jpg": "/web-book-pages/static/media/under.1d28dee7cc75b3b4c7ae.jpg",
+    "static/media/melangkah.jpg": "/web-book-pages/static/media/melangkah.6eaca4470cbaac14e4aa.jpg",
+    "static/media/secangkir-kopi.jpg": "/web-book-pages/static/media/secangkir-kopi.04d1ce8a7598f32d496f.jpg",
+    "static/media/Arcadia.jpg": "/web-book-pages/static/media/Arcadia.a563fbbd50e1668d4b67.jpg",
+    "static/media/home.jpg": "/web-book-pages/static/media/home.e1ec3820b8fc826aea73.jpg",
+    "index.html": "/web-book-pages/index.html",
+    "main.f23d10c2.css.map": "/web-book-pages/static/css/main.f23d10c2.css.map",
+    "main.d0e68541.js.map": "/web-book-pages/static/js/main.d0e68541.js.map",
+    "787.d827b253.chunk.js.map": "/web-book-pages/static/js/787.d827b253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f23d10c2.css",
+    "static/js/main.d0e68541.js"
+  ]
+}
